@@ -1,10 +1,10 @@
 # FWCW_FCM: New fuzzy C-means clustering method based on feature-weight and cluster-weight learning
 
-The Source_Code.rar file includes the MATLAB implementation of the CGFFCM algorithm presented in:
+This repository includes the MATLAB implementation of the FWCW_FCM algorithm presented in:
 
 M. Hashemzadeh, A. G. Oskouei, and N. Farajzadeh, "New fuzzy C-means clustering method based on feature-weight and cluster-weight learning" 
 
-Comments are written for all steps of the algorithm for better understanding the code. Also, a demo is implemented for ease of running, which runs by importing the data and other necessary algorithm parameters.
+Comments are written for all algorithm steps to better understand the code. Also, a demo is implemented for easy running, which runs by importing the data and other necessary algorithm parameters.
 
 ## Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
